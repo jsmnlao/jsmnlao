@@ -1,6 +1,8 @@
 <h1 align="center">Hi there👋, I'm Jasmine</h1>
 <h3 align="center">A passionate software developer from Bay Area, CA</h3>
 
+- 🔭 I’m interested in **web development, artificial intelligence, and learning new technologies**
+
 - 🌱 I’m currently learning **Reactjs, Nodejs, AI**
 
 - 📫 How to reach me **jsmn.lao@gmail.com**
