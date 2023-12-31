@@ -1,13 +1,11 @@
-### Hi there 👋
-
-<h1 align="center">Hi there👋, I'm'm Jasmine</h1>
+<h1 align="center">Hi there👋, I'm Jasmine</h1>
 <h3 align="center">A passionate software developer from Bay Area, CA</h3>
 
-- 🌱 I’m currently learning **reactjs, nodejs, AI**
+- 🌱 I’m currently learning **Reactjs, Nodejs, AI**
 
 - 📫 How to reach me **jsmn.lao@gmail.com**
 
-- ⚡ Fun fact **I like to practice latte art**
+- ⚡ Fun fact **I like to read, cook, and practice latte art during my free time**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
