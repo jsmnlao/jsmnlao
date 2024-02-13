@@ -3,7 +3,7 @@
 
 - 🔭 I’m interested in **web development, artificial intelligence, and learning new technologies**
 
-- 🌱 I’m currently learning **Reactjs, Nodejs, AI**
+- 🌱 I’m currently learning **Reactjs, Nodejs, Machine Learning**
 
 - 📫 How to reach me **jsmn.lao@gmail.com**
 
