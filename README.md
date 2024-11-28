@@ -11,13 +11,11 @@
 
 <h3 align="left">Tech Stack</h3>
 
-- **Programming Languages**: Java, Python, C, PHP, JavaScript, HTML, CSS
+- **Programming Languages**: Java, Python, C, PHP, JavaScript, HTML/CSS, SQL
 
 - **Libraries & Frameworks**: scikit-learn, PyTorch, Pandas, NumPy, TensorFlow, matplotlib
-
-- **Databases**: SQL, MySQL
   
-- **Development Tools**: Jupyter Notebooks, Google Colab
+- **Development Tools**: Jupyter Notebooks, Google Colab, VS Code, Visual Studio, Eclipse, IntelliJ, PyCharm, Android Studio
   
 - **Version Control**: Git, GitHub, BitBucket
 
