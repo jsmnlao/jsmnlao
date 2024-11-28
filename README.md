@@ -7,7 +7,19 @@
 
 - 📫 How to reach me **jsmn.lao@gmail.com**
 
-- ⚡ Fun fact **I like to read, cook, and practice latte art during my free time**
+- ⚡ Fun fact **I like to read, cook, and practice latte art** during my free time
+
+<h3 align="left">Tech Stack</h3>
+
+- **Programming Languages**: Java, Python, C, PHP, JavaScript, HTML, CSS
+
+- **Libraries & Frameworks**: scikit-learn, PyTorch, Pandas, NumPy, TensorFlow, matplotlib
+
+- **Databases**: SQL, MySQL
+  
+- **Development Tools**: Jupyter Notebooks, Google Colab
+  
+- **Version Control**: Git, GitHub, BitBucket
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
