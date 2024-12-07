@@ -9,7 +9,13 @@
 
 - ⚡ Fun fact **I like to read, cook, and practice latte art** during my free time
 
-<h3 align="left">Tech Stack</h3>
+<h3 align="left">Highlights!</h3>
+Google Machine Learning Challenge Project (Break Through Tech AI Program): Check out my team's project repository for the real-world ML project we worked on for Google for over 3 months (Fall 2024), as part of the Break Through Tech AI Program's Fall 2024 AI Studio! 
+
+
+Check out our repo [here](https://github.com/jsmnlao/Google-2B-Search-Query-Recommendation-System/tree/main)!
+
+<h3 align="left">Tech Stacks</h3>
 
 - **Programming Languages**: Java, Python, C, PHP, JavaScript, HTML/CSS, SQL
 
